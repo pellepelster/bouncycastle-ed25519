@@ -1,0 +1,2 @@
+rootProject.name = 'bouncycastle-ed25519'
+include('app')
